@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+node_modules/
+subscribers*
+*.csv
+.DS_Store
+Thumbs.db
